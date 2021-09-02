@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
+image: images/peec1.jpg
 title: Minimizing Energy Consumption by Designing Motion Sensors to Control Lights 
 permalink: projects/micromouse
 # All dates must be YYYY-MM-DD format!
@@ -14,7 +14,6 @@ summary: Researched sustainable solutions for energy consumption. Built and prog
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/peec1.jpg">
   <img class="ui image" src="../images/peec2.jpg">
   <img class="ui image" src="../images/peec3.jpg">
   <img class="ui image" src="../images/peec4.png">
