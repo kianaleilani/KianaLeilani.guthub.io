@@ -10,8 +10,8 @@ labels:
   - Arduino
   - Digi XBee
   - Aerospace
-summary: A text adventure game I developed for ICS 313.
----
+summary: An international aerospace competition to design, build and launch a rocket with two data collecting payloads inside.
+--- 
 
 <div class="ui small rounded images">
   <img class="ui image" src="../images/cansat2.png">
