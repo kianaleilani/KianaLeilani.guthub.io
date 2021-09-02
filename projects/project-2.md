@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/covid1.png
 title: Creating a Safer Campus by Developing a COVID-19 Tracking System
-permalink: projects/vacay
+permalink: projects/covid-tracking
 # All dates must be YYYY-MM-DD format!
 date: 2020-08-15
 labels:
