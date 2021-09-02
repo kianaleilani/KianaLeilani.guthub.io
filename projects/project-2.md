@@ -14,7 +14,7 @@ labels:
 summary: The purpose of this project is to tracks the occupancy of the STEM Center through a login and logout system with a microcontroller.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
+<img class="ui medium right floated rounded image" src="../images/covid2.HEIC">
 
 Programmed Raspberry PI to tack occupancy entering and leaving the Kapiolani Community College STEM Center. Used HTML and CSS to create the frontend page and CGI Perl program the backend of the system.
 
