@@ -16,7 +16,7 @@ summary: Researched sustainable solutions for energy consumption. Built and prog
 <div class="ui small rounded images">
   <img class="ui image" src="../images/peec2.jpg">
   <img class="ui image" src="../images/peec3.jpg">
-  <img class="ui image" src="../images/peec4.png">
+  <img class="ui image" src="../images/peec4.jpg">
 </div>
 
 For the summer of 2020, I participated in a Pre-Engineering Education Collaborative II Grant to work along side students, mentors and professors to create solutions for a substainable future. During this summer, COVID-19 caused the program to be online and to make individual projects rather than group ones. For my project, I wanted to focus on reducing electricity usage and to research the effects of CO2 emissions in the enviroment.
