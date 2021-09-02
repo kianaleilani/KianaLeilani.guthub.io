@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/peec1.jpg
 title: Minimizing Energy Consumption by Designing Motion Sensors to Control Lights 
-permalink: projects/micromouse
+permalink: projects/control-lights
 # All dates must be YYYY-MM-DD format!
 date: 2020-05-15
 labels:
