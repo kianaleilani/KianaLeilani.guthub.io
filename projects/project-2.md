@@ -21,4 +21,4 @@ Programmed Raspberry PI to tack occupancy entering and leaving the Kapiolani Com
 
 The Kapi’olani Community College Login and Logout system was created for the Science, Technology, Engineering and Mathematics (STEM) Center. It is Raspberry PI based, stand alone, and  operated by a simple touchscreen interface  
  
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
+You can learn more on my project poster [See project](https://docs.google.com/presentation/d/1c_8Bgc6QUX5HdzP2qM_L8PxCXgPHCjg2/edit#slide=id.p1).
