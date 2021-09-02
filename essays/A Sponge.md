@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: A sponge
+title: A Sponge
 # All dates must be YYYY-MM-DD format!
 date: 2021-09-01
 labels:
