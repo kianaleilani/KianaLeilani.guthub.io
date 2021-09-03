@@ -19,12 +19,12 @@
         "network": "github",
         "username": "kianaleilani",
         "url": "http://github.com/kianaleilani"
-      },
-      {
+     },
+     {
         "network": "linkedin",
         "username": "Kiana-Walters",
         "url": "http://linkedin.com/in/kiana-walters-506573207"
-      }
+     }
     ]
   },
   "interests": [
@@ -57,7 +57,7 @@
         "Perl"
       ]
     },
-    {
+   {
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
