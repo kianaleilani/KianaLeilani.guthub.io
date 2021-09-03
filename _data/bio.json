@@ -53,8 +53,8 @@
         "C++",
         "Java",
         "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "Arduiuno",
+        "Perl"
       ]
     },
     {
@@ -62,17 +62,15 @@
       "level": "",
       "keywords": [
         "MacOS",
-        "Ubuntu",
         "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Linux
       ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Science (expected Fall, 2023)",
       "studyType": "B.S.",
       "startDate": "2019-08-01",
       "endDate": "Present",
@@ -83,70 +81,50 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "Kapiolani Community College STEM Center",
+      "position": "STEM Peer Mentor",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "2021-01-07",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Mentor students in varies STEM related classes.",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Assisted students in classes such as: Math, Physics and Computer Science.",
+        "Encouraged a safe and productive environment during COVID-19."
       ]
     },
-    {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
-      "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
-      ]
-    }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
+      "organization": "United Services Organizations",
+      "position": "Volunteer",
+      "startDate": "2018-01-01",
       "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "summary": "Greeted and helped service members and their families",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Prepare meals and provide assistance when needed.",
+        "Clean and organized USO locations."
       ]
     },
     {
-      "organization": "",
+      "organization": "Aloha Youth Lacrosse Association",
       "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
+      "position": "Coach",
+      "startDate": "2018-09-01",
+      "endDate": "Present",
+      "summary": "Coach middle school and high school girls lacrosse",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Teach lacrosse following guidelines from National Lacrosse Association",
+        "Run practice and games as well as maintain a safe environment for players"
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "UHM CC Transfer Merit Award",
+      "date": "2021-Present",
+      "awarder": "University of Hawaii",
+      "summary": "Scholarships awarded for incoming transfer students from the UH Community Colleges. Students must have a 3.3 GPA or above."
     },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
-    }
   ],
   "references": [
     {
