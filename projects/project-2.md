@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/covid1.png
+image: images/covid1.2.png
 title: Creating a Safer Campus by Developing a COVID-19 Tracking System
 permalink: projects/covid-tracking
 # All dates must be YYYY-MM-DD format!
