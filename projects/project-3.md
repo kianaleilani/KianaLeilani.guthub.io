@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/cansat1.2.png
+image: images/cansat1.png
 title: CanSat 2021
 permalink: projects/cansat21
 # All dates must be YYYY-MM-DD format!
