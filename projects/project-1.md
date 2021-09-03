@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/peec1.jpg
+image: images/peec1.2.jpg
 title: Minimizing Energy Consumption by Designing Motion Sensors to Control Lights 
 permalink: projects/control-lights
 # All dates must be YYYY-MM-DD format!
