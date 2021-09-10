@@ -15,7 +15,7 @@ Asking questions online can be very helpful, especially if you ask it properly. 
 
 The smart question I found asked about operating in javascript. The operator is !! and the person asking the question has not seen it before and was asking what it does. The user also included the line of code so that other users can see what they are referring to. 
 
-Here is the link to the [Smart Question](https://stackoverflow.com/questions/784929/what-is-the-not-not-operator-in-javascript?rq=1\).
+Here is the link to the [Smart Question](https://stackoverflow.com/questions/784929/what-is-the-not-not-operator-in-javascript?rq=1).
 
 The less smart question I found also got an answer but not as many as the smart question. The question was asking what a NullReferenceException is. The user did not really explain the code and only included the NullReferenceException and how it was unhandled and asked how to fix it. The question was able to be answered but there were not as many answers and some did not go into detail, some answers just told the user how to fix the exception. I would consider this a less smart question because the question could have been answered with a simple google search.
 
