@@ -19,11 +19,11 @@ First, let me give an analogy of a type of design pattern, structural. For my an
 
 Now, I want to capture a photo but when I try to with my basic camera, I am having issues. I’m shaky so I can hold the camera still, there seems to be a glare on the photos and my camera just died so I need to go back to my car to charge the batteries. If I applied a decorator design to my camera, I would need to add some accessories to my camera. These accessories may be a tripod for stillness, a lens hood to avoid glare and a power battery pack so my camera won’t die on me. Now my camera might look something like this: 
 
-<img class="ui small fluid image" src="../images/tripod.png">
+<img class="ui medium circular centered image" src="../images/tripod.png">
 
 Or maybe like this:
 
-<img class="ui small centered image" src="../images/tripod2.png">
+<img class="ui medium circular centered image" src="../images/tripod2.png">
 
 Either way, I have resolved my issues by applying this design. In the future, I could add or take off some accessories to satisfy other problems. 
 This camera analogy is how software developers can add decorator design patterns to objects while creating and using programs. They can add to the object to satisfy an issue in the program or they can take away accessories if it's not needed and it's wasting time and space. 
