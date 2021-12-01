@@ -23,7 +23,7 @@ Now, I want to capture a photo but when I try to with my basic camera, I am havi
 
 Or maybe like this:
 
-<img class="ui small circular floated image" src="../images/tripod1.png">
+<img class="ui small circular floated image" src="../images/tripod2.png">
 
 Either way, I have resolved my issues by applying this design. In the future, I could add or take off some accessories to satisfy other problems. 
 This camera analogy is how software developers can add decorator design patterns to objects while creating and using programs. They can add to the object to satisfy an issue in the program or they can take away accessories if it's not needed and it's wasting time and space. 
