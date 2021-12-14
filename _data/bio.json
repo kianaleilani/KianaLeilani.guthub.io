@@ -55,6 +55,7 @@
         "Javascript",
         "Arduino",
         "Perl"
+      
       ]
     },
    {
@@ -63,7 +64,10 @@
       "keywords": [
         "MacOS",
         "Git/GitHub",
-        "Linux"
+        "Linux",
+        "Meteor",
+        "MongoDB",
+        "Seamantic UI"
       ]
     }
   ],
@@ -124,6 +128,12 @@
       "date": "2021-Present",
       "awarder": "University of Hawaii",
       "summary": "Scholarships awarded for incoming transfer students from the UH Community Colleges. Students must have a 3.3 GPA or above."
+    },
+    {
+      "title": "Indigenous Knowledge in Engineering, Pre-Engineering Education Collaborative II,",
+      "date": "2020",
+      "awarder": "National Science Foundation",
+      "summary": "Scholarships awarded to community college STEM minorities students interested in engineering."
     }
   ],
   "references": [
