@@ -14,7 +14,7 @@ labels:
 summary: The purpose of this project is to tracks the occupancy of the STEM Center through a login and logout system with a microcontroller.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/covid2.HEIC">
+<img class="ui medium right floated rounded image" src="../images/covid2.png">
 
 During COVID-19, contact tracing became very important especially on campus where students walk in and out of the STEM Center daily. An easy and efficient way to keep track of students that come in and out of STEM center was to create a tracking application. This applciation would be a better way to track occupancy. The system would ask the students for their name and student email and store it on a server in case contact tracing needs to be done. 
 
