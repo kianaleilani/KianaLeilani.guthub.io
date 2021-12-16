@@ -9,7 +9,7 @@ labels:
   - Learning
 ---
 
-## A Better Software Engineer
+# A Better Software Engineer
 
 After taking my first software engineering class, I am excited to continue my education and my career. I learned many concepts such as, functional programming, coding standards, user interface frameworks and more. Learning and using these new tools in this class not only will help me become a better software engineer but I also will be a better learner for the rest of my life. 
 Functional programming taught me another way to program and an easier way to program. It also helped me understand program functions and how different functions apply to my code. Using Underscore while I was learning functional programming allowed me to program more efficiently. Functional programming not only added to my toolset, it also gave me a different perspective on how to go about problems in life. Instead of trying to solve the problem the only way I know, I could learn a different and more efficient way to solve it. 
