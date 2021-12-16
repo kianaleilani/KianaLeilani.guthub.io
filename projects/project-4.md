@@ -15,7 +15,7 @@ labels:
 summary: Awarded 2nd place at the Hawaii Annual Code Challenge out of 44 teams.
 --- 
 
-<div class="ui small rounded images">
+<div class="ui medium rounded images">
   <img class="ui image" src="../images/hmarlanding.png">
   <img class="ui image" src="../images/kahukaianimalreport.png">
   <img class="ui image" src="../images/hmarsealform.png">
